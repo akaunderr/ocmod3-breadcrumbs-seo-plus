@@ -1,7 +1,8 @@
 *.*
-src
 bin
+!bin/breadcrumbs-seo-plus.ocmod.zip.g
+src
+!.gitignore
 !EULA.txt
 !README.md
-!bin/breadcrumbs-seo-plus.ocmod.zip.g
-!.gitignore
+!makebin.sh
