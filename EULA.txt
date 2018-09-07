@@ -77,7 +77,7 @@ You are permitted to:
 
 - load the Software under the Host. "Host" means any physical or virtual
   machine which is controlled by you;
-- You may install the Software on an unlimited number of Hosts;
+- install the Software on an unlimited number of Hosts;
 - edit, alter, modify, adapt, translate or otherwise change the whole or any
   part of the Software;
 - use it for any commersial purpose (except reproduce, copy, distribute or
