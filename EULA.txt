@@ -6,7 +6,7 @@ This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
 
 This EULA agreement governs your acquisition and use of our Breadcrumbs SEO+
-software (the "Software") directly from Andrii Burkatskyi or indirectly through a
+software (the "Software") directly from the Licensor or indirectly through a
 Andrii Burkatskyi authorized reseller or distributor (a "Reseller").
 
 Please read this EULA agreement carefully before completing the installation
@@ -75,12 +75,13 @@ third parties.
 
 You are permitted to:
 
-- load the Software under the Host. "Host" means any physical or virtual
-  machine which is controlled by you;
-- install the Software on an unlimited number of Hosts;
+- load and install the Software on an unlimited number of Hosts. "Host" means
+  any physical or virtual machine which is directly under your control;
+- install the Software on an unlimited number of Hosts which is directly under
+  your control;
 - edit, alter, modify, adapt, translate or otherwise change the whole or any
   part of the Software;
-- use it for any commersial purpose (except reproduce, copy, distribute or
+- use it for any commercial purpose (except reproduce, copy, distribute or
   resell the Software).
 
 
@@ -96,6 +97,7 @@ You are not permitted to:
   any other software;
 - remove or obscure copyright or trademark notices, or the copyright and trademark
   notices of third parties that have been included in the Software;
+- claim the Software work as your own;
 - use the Software in any way which breaches any applicable local, national or
   international law;
 - use the Software for any purpose that Andrii Burkatskyi considers is a breach
