@@ -1,6 +1,6 @@
 End-User License Agreement (EULA) of Breadcrumbs SEO+
 
-Last updated: 2018.09.06
+Last updated: 2018.09.07
 
 This End-User License Agreement ("EULA") is a legal agreement between the end
 user (the "Licensee" or "you") and Andrii Burkatskyi (the "Licensor")
