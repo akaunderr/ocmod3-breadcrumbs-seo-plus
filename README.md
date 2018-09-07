@@ -43,9 +43,9 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Go to Dashboard > [Developer Settings] > SASS [Refresh]
 
 
-## Demo
-* [Frontend](http://051c5f20.freevar.com/www/plus/)
-* [Backend](http://051c5f20.freevar.com/www/plus/admin/): login: demo, password: demo
+## Live demo
+* [Demo](http://051c5f20.freevar.com/www/plus/)
+* [Admin](http://051c5f20.freevar.com/www/plus/admin/): login: demo, password: demo
 
 
 ## License
@@ -53,5 +53,4 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 
 
 ## Links
-
-[Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
+* [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
