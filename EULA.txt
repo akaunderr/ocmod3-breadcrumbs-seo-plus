@@ -36,7 +36,7 @@ unless other terms accompany those items on delivery. If so, those terms apply.
 
 Definitions
 
-Breadcrumbs SEO+ (the "Software"): means the Breadcrumbs SEO+ software and
+Breadcrumbs SEO+ (the "Software") means the Breadcrumbs SEO+ software and
 includes:
 
 1. all its components developed and licensed by Burkatsky Andrii;
@@ -76,9 +76,7 @@ third parties.
 You are permitted to:
 
 - load and install the Software on an unlimited number of Hosts. "Host" means
-  any physical or virtual machine which is directly under your control;
-- install the Software on an unlimited number of Hosts which is directly under
-  your control;
+  any physical or virtual machine which is directly controlled by you;
 - edit, alter, modify, adapt, translate or otherwise change the whole or any
   part of the Software;
 - use it for any commercial purpose (except reproduce, copy, distribute or
@@ -87,7 +85,7 @@ You are permitted to:
 
 You are not permitted to:
 
-- reproduce, copy, distribute, resell or sublicence the Software  or otherwise
+- reproduce, copy, distribute, resell or sublicence the Software or otherwise
   make available the Software to third parties, including by rental,
   Software-as-a-Service models or otherwise
 - allow any third party to use the Software on behalf of or for the benefit of
