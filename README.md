@@ -16,6 +16,7 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 ## Change log
 * v1.1(2018.09.10):
   * Code improvements and little fixes
+  * Removed unnecessary files markup
 * v1.0(2018.09.06):
   * First release
 
