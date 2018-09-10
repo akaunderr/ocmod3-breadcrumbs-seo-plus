@@ -1,20 +1,21 @@
 # Breadcrumbs-SEO+
 
-## Short description
-OCMOD modification for Opencart 3 that adds structured data mark-up for breadcrumbs.
-There are three different version with Microdata, RDFa and JSON-LD mark-up.
+## Description
+OCMOD modification for Opencart 3 adds breadcrumb trail markup in the body of a webpage to categorize the information from the page in search results. Has three types of markup - Microdata, RDFa and JSON-LD.
 
 Have been tested with 3.0.2.0 and default theme only, but should work with other OC 3.x versions with default theme
 
 
 ## Features
-1. Adds structured data markup to breadcrumbs (Microdata, RDFa, JSON-LD).
-2. Enable/disable markup for home page item with custom title.
-3. Enable/disable link for the target page item that lead to themselves.
-4. Enable/disable bold type for the target page item.
+1. Three markup types - Microdata, RDFa and JSON-LD.
+2. The first breadcrumb item markup with custom title (ON/OFF).
+3. Removing the link from the last breadcrumb item (ON/OFF).
+4. Bold type for the last breadcrumb item (ON/OFF).
 
 
 ## Change log
+* v1.1(2018.09.10):
+  * Code improvements and little fixes
 * v1.0(2018.09.06):
   * First release
 
