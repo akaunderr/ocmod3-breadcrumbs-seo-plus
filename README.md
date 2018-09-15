@@ -1,10 +1,9 @@
 # Breadcrumbs-SEO+
 
 ## Description
-OCMOD modification for Opencart 3 adds breadcrumb trail markup in the body of a webpage to categorize the information from the page in search results. Has three types of markup - Microdata, RDFa and JSON-LD.
+Paid extension module for CMS Opencart 3 that adds markup in the breadcrumb trail to categorize the information from the page in search results. Has three types of markup - Microdata, RDFa and JSON-LD.
 
-Have been tested with 3.0.2.0 and default theme only, but should work with other OC 3.x versions with default theme
-
+Have been tested with 3.0.2.0 and default theme only, but should work with other OC 3.x versions with default theme.
 
 ## Features
 1. Three markup types - Microdata, RDFa and JSON-LD.
@@ -12,14 +11,12 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 3. Removing the link from the last breadcrumb item (ON/OFF).
 4. Bold type for the last breadcrumb item (ON/OFF).
 
-
 ## Change log
 * v1.1(2018.09.10):
   * Code improvements and little fixes
   * Removed unnecessary files markup
 * v1.0(2018.09.06):
   * First release
-
 
 ## How to install
 * To begin, make backup, really!
@@ -31,10 +28,8 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Go to Dashboard > [Developer Settings] > Theme [Refresh]
 * Go to Dashboard > [Developer Settings] > SASS [Refresh]
 
-
 ## How to configure
 * Admin Home > Extensions > [underr] Breadcrumbs SEO+
-
 
 ## How to uninstall
 * Make backup
@@ -44,15 +39,12 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Go to Dashboard > [Developer Settings] > Theme [Refresh]
 * Go to Dashboard > [Developer Settings] > SASS [Refresh]
 
-
-## Live demo
-* [Demo](http://051c5f20.freevar.com/www/plus/)
-* [Admin](http://051c5f20.freevar.com/www/plus/admin/): login: demo, password: demo
-
+## Demo
+* [Frontpage](http://051c5f20.freevar.com/www/plus)
+* Admin - [Settings](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo)
 
 ## License
 * [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
-
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
