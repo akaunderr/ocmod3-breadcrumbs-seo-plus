@@ -6,10 +6,12 @@ Paid extension module for CMS Opencart 3 that adds markup in the breadcrumb trai
 Have been tested with 3.0.2.0 and default theme only, but should work with other OC 3.x versions with default theme.
 
 ## Features
-1. Three markup types - Microdata, RDFa and JSON-LD.
-2. The first breadcrumb item markup with custom title (ON/OFF).
-3. Removing the link from the last breadcrumb item (ON/OFF).
-4. Bold type for the last breadcrumb item (ON/OFF).
+* Three markup types - Microdata, RDFa and JSON-LD.
+* The first breadcrumb item markup with custom title (ON/OFF).
+* Removing the link from the last breadcrumb item (ON/OFF).
+* Bold type for the last breadcrumb item (ON/OFF).
+* Multilangual - EN/UA/RU
+* Does not change original files - OCMOD modification
 
 ## Change log
 * v1.1(2018.09.10):
