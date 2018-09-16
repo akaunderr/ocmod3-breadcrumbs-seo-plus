@@ -10,8 +10,8 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * The first breadcrumb item markup with custom title (ON/OFF).
 * Removing the link from the last breadcrumb item (ON/OFF).
 * Bold type for the last breadcrumb item (ON/OFF).
-* Multilangual - EN/UA/RU
-* Does not change original files - OCMOD modification
+* Multilangual - EN/UA/RU.
+* Does not change original files - OCMOD modification.
 
 ## Change log
 * v1.1(2018.09.10):
