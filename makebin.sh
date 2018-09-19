@@ -11,6 +11,8 @@ cp -v README.md ./src/
 cd "./src/"
 zip -9 -r ${zip} "./"
 mv ${zip} "../bin/"
+
+rm -f EULA.txt README.md
 cd ../
 
 hideg ./bin/"${zip}"

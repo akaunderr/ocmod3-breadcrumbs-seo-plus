@@ -14,7 +14,7 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Does not change original files - OCMOD modification.
 
 ## Change log
-* v1.1(2018.09.10):
+* v1.1(2018.09.19):
   * Code improvements and little fixes.
   * Removed unnecessary files markup.
 * v1.0(2018.09.06):
@@ -42,8 +42,8 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Go to Dashboard > [Developer Settings] > SASS [Refresh]
 
 ## Live demo
-* [Frontpage](http://051c5f20.freevar.com/www/plus)
-* Admin - [Settings](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo)
+* [Front Demo](http://051c5f20.freevar.com/www/plus)
+* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
 
 ## License
 * [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
