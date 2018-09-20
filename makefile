@@ -1,17 +1,17 @@
+# Breadcrumbs SEO+ v1.1 (https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022)
 # Copyright 2018 Andrii Burkatskyi aka underr
+# EULA - https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt
 
-dir=$(shell pwd)
-zip=$(shell basename $(dir)).ocmod.zip
+zip=$(shell basename `pwd`).ocmod.zip
 
-license=LICENSE.txt
 eula=EULA.txt
 readme=README.md
-
+datetime=201801010000.00
 src=src
 bin=bin
 
 
-all: checkg clean makedir makezip addtext hideg
+all: checkg clean makedir timestamp makezip hideg
 
 checkg:
 	@if [ ! -f "hideg.pwd" ]; then hideg; fi
@@ -19,12 +19,11 @@ checkg:
 makedir:
 	mkdir -p "$(bin)"
 
-makezip:
-	cd "$(src)" && zip -9 -r "../$(bin)/$(zip)" * && cd ..
+timestamp:
+	find . -exec touch -a -m -t $(datetime) {} \;
 
-addtext:
-	zip -9 -j "$(bin)/$(zip)" "$(readme)" "$(license)" "$(eula)"
-	# @if [ -f "$(license)" ]; then zip -9 -j "$(bin)/$(zip)" "$(license)"; elif [ -f "$(eula)" ]; then zip -9 -j "$(bin)/$(zip)" "$(eula)"; fi
+makezip:
+	cd "$(src)" && zip -9qrX "../$(bin)/$(zip)" * && cd .. && zip -9qrX "$(bin)/$(zip)" "$(readme)" "$(eula)"
 
 hideg: hideg.pwd
 	hideg "$(bin)/$(zip)"
@@ -34,5 +33,4 @@ clean:
 	@rm -f "$(bin)"/*.*
 	@rm -f "$(src)"/*.zip
 	@rm -f "$(src)/$(eula)"
-	@rm -f "$(src)/$(license)"
 	@rm -f "$(src)/$(readme)"

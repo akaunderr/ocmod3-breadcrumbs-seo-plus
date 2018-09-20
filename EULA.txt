@@ -39,11 +39,11 @@ Definitions
 Breadcrumbs SEO+ (the "Software") means the Breadcrumbs SEO+ software and
 includes:
 
-1. all its components developed and licensed by Burkatsky Andrii;
-2. any revisions, updates and/or upgrades thereto;
-3. anything in any form whatsoever intended to be used with or in
-   conjunction with the Breadcrumbs SEO+;
-4. any associated media and documentation.
+- all its components developed and licensed by Burkatsky Andrii;
+- any revisions, updates and/or upgrades thereto;
+- anything in any form whatsoever intended to be used with or in
+  conjunction with the Breadcrumbs SEO+;
+- any associated media and documentation.
 
 
 License Grant
