@@ -22,27 +22,29 @@ The extension has been tested with OC 3.0.2.0 and default theme only, but should
 
 ## How to install
 * To begin, make backup, really!
-* Open Admin Panel
-* Admin > Extensions > Installer > [Upload]: open the extension file
-* Admin > Extensions > Modifications > [Refresh]
-* Admin > Dashboard > [Developer Settings] > [Refresh]
+* Open Admin Panel.
+* Admin > Extensions > Extensions > Installer > [Upload]: open the extension file.
+* Admin > Extensions > Extensions > Modifications > [Refresh].
+* Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## How to configure
-* Admin Home > Extensions > [underr] Breadcrumbs SEO+
+* Admin > Extensions > Extensions > Modules > [underr] Breadcrumbs SEO+ > [Install].
+* Admin > Extensions > Extensions > Modules > [underr] Breadcrumbs SEO+ > [Edit]:
+  * Set the desired parameters.
 
 ## How to uninstall
 * Make backup
 * Open Admin Panel
-* Admin > Extensions > Installer > Install History > find the extension file > [Uninstall]
-* Admin > Extensions > Modifications > [Refresh]
+* Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
+* Admin > Extensions > Extensions > Modifications > [Refresh]
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-[Front Demo](http://051c5f20.freevar.com/www/plus)
-[Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
+* [Front Demo](http://051c5f20.freevar.com/www/plus)
+* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
 
 ## Links
-[Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
+* [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
 
 ## License
 [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
