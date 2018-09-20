@@ -11,8 +11,6 @@ src=src
 bin=bin
 
 
-
-
 all: checkg clean makedir makezip addtext hideg
 
 checkg:

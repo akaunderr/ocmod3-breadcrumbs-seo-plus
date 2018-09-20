@@ -37,11 +37,11 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * Admin > Dashboard > [Developer Settings] > [Refresh]
 
 ## Live demo
-* [Front Demo](http://051c5f20.freevar.com/www/plus)
-* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
-
-## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
+[Front Demo](http://051c5f20.freevar.com/www/plus)
+[Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
 
 ## Links
-* [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
+[Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
+
+## License
+[EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
