@@ -2,7 +2,8 @@
 
 ## Description
 The Breadcrumbs-SEO+ extension module is for CMS Opencart 3. It adds markup in the breadcrumb trail to categorize the information from the page in search results. Has three types of markup - Microdata, RDFa and JSON-LD.
-Have been tested with 3.0.2.0 and default theme only, but should work with other OC 3.x versions with default theme.
+
+The extension has been tested with OC 3.0.2.0 and default theme only, but should work with other OC 3.x versions. with default theme.
 
 ## Features
 * Three markup types - Microdata, RDFa and JSON-LD.
