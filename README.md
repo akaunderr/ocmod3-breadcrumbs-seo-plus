@@ -33,11 +33,11 @@ The extension has been tested with OC 3.0.2.0 and default theme only, but should
   * Set the desired parameters.
 
 ## How to uninstall
-* Make backup
-* Open Admin Panel
-* Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall]
-* Admin > Extensions > Extensions > Modifications > [Refresh]
-* Admin > Dashboard > [Developer Settings] > [Refresh]
+* Make backup.
+* Open Admin Panel.
+* Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall].
+* Admin > Extensions > Extensions > Modifications > [Refresh].
+* Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo
 * [Front Demo](http://051c5f20.freevar.com/www/plus)
