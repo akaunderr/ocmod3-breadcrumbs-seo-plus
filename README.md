@@ -46,7 +46,7 @@ Have been tested with 3.0.2.0 and default theme only, but should work with other
 * [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
 
 ## License
-* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
+* [EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)

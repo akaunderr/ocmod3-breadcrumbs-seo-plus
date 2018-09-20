@@ -49,7 +49,7 @@ includes:
 License Grant
 
 Andrii Burkatskyi hereby grants you a personal, non-transferable,
-non-exclusive licence to use the Software on your devices in
+non-exclusive license to use the Software on your devices in
 accordance with the terms of this EULA agreement.
 
 The Software is licensed, not sold.
@@ -69,7 +69,7 @@ you. The Software (and the copyright, and other intellectual property rights of
 whatever nature in the Software, including any modifications made thereto) are
 and shall remain the property of Andrii Burkatskyi.
 
-Andrii Burkatskyi reserves the right to grant licences to use the Software to
+Andrii Burkatskyi reserves the right to grant licenses to use the Software to
 third parties.
 
 
@@ -85,7 +85,7 @@ You are permitted to:
 
 You are not permitted to:
 
-- reproduce, copy, distribute, resell or sublicence the Software or otherwise
+- reproduce, copy, distribute, resell or sublicense the Software or otherwise
   make available the Software to third parties, including by rental,
   Software-as-a-Service models or otherwise
 - allow any third party to use the Software on behalf of or for the benefit of
