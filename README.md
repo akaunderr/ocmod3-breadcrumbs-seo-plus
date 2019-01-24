@@ -1,19 +1,23 @@
 # Breadcrumbs-SEO+
 
 ## Description
-The Breadcrumbs-SEO+ extension module is for CMS Opencart 3. It adds markup in the breadcrumb trail to categorize the information from the page in search results. Has three types of markup - Microdata, RDFa and JSON-LD.
+The Breadcrumbs-SEO+ extension is for CMS Opencart 3. Adds markup in the breadcrumb trails to better categorize the information from the page in search results. Three markup types - Microdata, RDFa and JSON-LD.
 
-The extension has been tested with OC 3.0.2.0 and default theme only, but should work with other OC 3.x versions.
+The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
+
+Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
 
 ## Features
 * Three markup types - Microdata, RDFa and JSON-LD.
-* The first breadcrumb item markup with custom title (ON/OFF).
-* Removing the link from the last breadcrumb item (ON/OFF).
-* Bold type for the last breadcrumb item (ON/OFF).
-* Multilangual - EN/UA/RU.
-* Does not change original files - OCMOD modification.
+* Link removing for the lasts breadcrumb item.
+* Bold font type for the last breadcrumb item.
+* Custom markup text for the first breadcrumb item (site name).
+* Multilangual admin - EN/UA/RU.
+* OCMOD - does not change original files.
 
 ## Change log
+* v1.2(2019.01.24):
+  * Code improvements and little fixes.
 * v1.1(2018.09.19):
   * Code improvements and little fixes.
   * Removed unnecessary files markup.
@@ -40,11 +44,11 @@ The extension has been tested with OC 3.0.2.0 and default theme only, but should
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
 ## Live demo
-* [Front Demo](http://051c5f20.freevar.com/www/plus)
-* [Admin Demo](http://051c5f20.freevar.com/www/plus/admin/index.php?route=extension/module/breadcrumbs_seo) - Settings
+* [Front Demo](https://oc.underr.thats.im/d1)
+* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/breadcrumbs_seo)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
 
 ## License
-[EULA](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
+[End-user license agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)

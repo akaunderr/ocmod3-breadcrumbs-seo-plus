@@ -1,5 +1,5 @@
 # Breadcrumbs SEO+ v1.1 (https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=35022)
-# Copyright 2018 Andrii Burkatskyi aka underr
+# Copyright 2019 Andrii Burkatskyi aka underr
 # EULA - https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt
 
 zip=$(shell basename `pwd`).ocmod.zip
