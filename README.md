@@ -51,4 +51,4 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
 
 ## License
-[End-user license agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
+[End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
