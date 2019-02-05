@@ -44,10 +44,6 @@ Please feel free to contact me through the "GET SUPPORT" form or comments on Ope
 * Admin > Extensions > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
 
-## Live demo
-* [Front Demo](https://oc.underr.thats.im/d1)
-* [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/breadcrumbs_seo)
-
 ## Live demo [Main]
 * [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/breadcrumbs_seo)
 * [Front Demo](http://ocmod.freevar.com/oc3020/a)
@@ -60,4 +56,4 @@ Please feel free to contact me through the "GET SUPPORT" form or comments on Ope
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
 
 ## License
-[End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
+* [End-User License Agreement](https://raw.githubusercontent.com/underr-ua/ocmod3-breadcrumbs-seo-plus/master/EULA.txt)
