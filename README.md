@@ -1,11 +1,11 @@
 # Breadcrumbs-SEO+
 
 ## Description
-The Breadcrumbs-SEO+ extension is for CMS Opencart 3. Adds markup in the breadcrumb trails to better categorize the information from the page in search results. Three markup types - Microdata, RDFa and JSON-LD.
+The Breadcrumbs-SEO+ extension is for CMS Opencart 3. Adds markup in the breadcrumb trails to better categorize the information from the page in search results. It has three types of markup - Microdata, RDFa and JSON-LD.
 
-The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and default-compatible templates and can be easily modified for newer OC versions and custom templates.
+The extension has been tested with OC 3.0.2.0 and default template, but should work with other OC 3.x and compatible templates and can be easily modified for newer OC versions and custom templates.
 
-Please feel free to contact me by email <underr.public@gmail.com> or through the support form and comments on Opencart Marketplace (see links below).
+Please feel free to contact me through the "GET SUPPORT" form or comments on Opencart Marketplace (see links below).
 
 ## Features
 * Three markup types - Microdata, RDFa and JSON-LD.
@@ -39,6 +39,7 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 ## How to uninstall
 * Make backup.
 * Open Admin Panel.
+* Admin > Extensions > Extensions > Modules > [underr] Breadcrumbs SEO+ > [Uninstall].
 * Admin > Extensions > Extensions > Installer > Install History > find the extension file > [Uninstall].
 * Admin > Extensions > Extensions > Modifications > [Refresh].
 * Admin > Dashboard > [Developer Settings] > [Refresh].
@@ -46,6 +47,14 @@ Please feel free to contact me by email <underr.public@gmail.com> or through the
 ## Live demo
 * [Front Demo](https://oc.underr.thats.im/d1)
 * [Admin Demo](https://oc.underr.thats.im/d1/admin/index.php?route=extension/module/breadcrumbs_seo)
+
+## Live demo [Main]
+* [Admin Demo - Settings](http://ocmod.freevar.com/oc3020/a/admin/index.php?route=extension/module/breadcrumbs_seo)
+* [Front Demo](http://ocmod.freevar.com/oc3020/a)
+
+## Live demo [Alternative]
+* [Admin Demo - Settings](https://oc3020.underr.thats.im/a/admin/index.php?route=extension/module/breadcrumbs_seo)
+* [Front Demo](https://oc3020.underr.thats.im/a)
 
 ## Links
 * [Opencart Marketplace](https://www.opencart.com/index.php?route==marketplace/extension/info&extension_id=35022)
